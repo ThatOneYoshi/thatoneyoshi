@@ -2,7 +2,6 @@
 
 ### A random furry bozo
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThatOneYoshi&label=Profile views&color=0e75b6&style=flat" alt="ThatOneYoshi" /> </p>
 
 - I'm currently learning **Mostly python, with some HTML on the side**
 
