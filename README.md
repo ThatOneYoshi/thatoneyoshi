@@ -1,8 +1,7 @@
 # Sup, I'm ThatOneYoshi
 
-## A random furry bozo that love retro stuff
+## A random furry bozo that love retro stuff and maybe does stupid stuff once in a while
 
-### and maybe does stupid stuff once in a while
 
 - I'm currently learning **mostly python, with some HTML on the side**
 
