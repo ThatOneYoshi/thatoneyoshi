@@ -1,9 +1,10 @@
 # Sup, I'm ThatOneYoshi
 
-### A random furry bozo
+## A random furry bozo that love retro stuff
 
+### and maybe does stupid stuff once in a while
 
-- I'm currently learning **Mostly python, with some HTML on the side**
+- I'm currently learning **mostly python, with some HTML on the side**
 
 - How to reach me via email **That1Yoshi@thatoneyoshi.org**
 
