@@ -5,7 +5,7 @@
 
 - I'm currently learning **mostly python, with some HTML on the side**
 
-- How to reach me via email **That1Yoshi@thatoneyoshi.org**
+- How to reach me on some platforms **[https://thatoneyoshi.org/contact](https://thatoneyoshi.org/contact)**
 
 - Some of my projects and or project im workin on is at this github or **[https://thatoneyoshi.org/projects](https://thatoneyoshi.org/projects)**
 
