@@ -9,7 +9,7 @@
 
 - Some of my projects and or project im workin on is at this github or **[https://thatoneyoshi.org/projects](https://thatoneyoshi.org/projects)**
 
-- Heres the page to my  write blogs (they aint done yet btw) **[https://thatoneyoshi.org/blogs](https://thatoneyoshi.org/blogs)**
+- Heres where i write my blogs, read them if ya want **[https://thatoneyoshi.org/blogs](https://thatoneyoshi.org/blogs)**
 
 <h3 align="left">apps you'll see me in</h3>
 <p align="left">
